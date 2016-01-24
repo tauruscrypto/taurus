@@ -1,0 +1,2 @@
+debian/bin/Taurusd usr/bin
+src/Taurusd usr/lib/Taurus

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Taurus
+Comment=Taurus P2P Cryptocurrency
+Exec=/usr/bin/Taurus-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/Taurus;
+Categories=Office;
+Name[en_US]=Taurus-qt.desktop
